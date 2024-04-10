@@ -10,3 +10,9 @@
 [submodule "matrix/plugin.video.seren"]
 	path = matrix/plugin.video.seren
 	url = https://github.com/nixgates/plugin.video.seren
+[submodule "omega/plugin.video.seren"]
+	path = omega/plugin.video.seren
+	url = https://github.com/BobAarons/plugin.video.seren
+[submodule "omega/context.seren"]
+	path = omega/context.seren
+	url = https://github.com/SerenKodi/context.seren.git
